@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.ubicua.didas.authentication"},{"l":"com.ubicua.didas.resources"},{"l":"com.ubicua.didas.rest"},{"l":"com.ubicua.didas.ui"},{"l":"com.ubicua.didas.userprofile"}];updateSearchResults();
